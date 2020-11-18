@@ -15,11 +15,11 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               CircleAvatar(
-                radius: 30.0,
+                radius: 38.0,
                 backgroundImage: AssetImage('images/photo.jpg'),
               ),
               Text(
-                "Kunal Sachdeva Nishita Pali",
+                "Kunal Pali",
                 style: TextStyle(
                   fontSize: 40.0,
                   color: Colors.black87,
